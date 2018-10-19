@@ -8,4 +8,4 @@ I needed to do a lot of silly things with flexbox to get the animations and loca
 
 Mouse over the preview to see how your selections would change the element on resize.
 
-Working demo here(https://react-vegas-bespoke-ui.netlify.com)
+Working demo here (https://react-vegas-bespoke-ui.netlify.com)
